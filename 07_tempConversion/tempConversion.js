@@ -1,3 +1,5 @@
+// COMPLETED 05/02/2022
+
 const ftoc = function(temp) {
   result = (temp - 32) * (5/9);
   rounded = Math.round(result * 10) / 10;
